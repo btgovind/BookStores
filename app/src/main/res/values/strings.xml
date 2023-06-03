@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookStores</string>
+    <string name="home">home</string>
+    <string name="my_profile">my_profile</string>
+    <string name="favorites">favorites</string>
+    <string name="faqs">faqs</string>
+    <string name="logout">logout</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home_fragment</string>
+    <string name="profile">Profile</string>
+    <string name="restaurant">restaurant_name</string>
+    <string name="Author">Author</string>
+    <string name="sort">Sort</string>
+    <string name="Name">name</string>
+</resources>
